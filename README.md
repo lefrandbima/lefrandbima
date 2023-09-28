@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @lefrandbima
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java & php
-- 📫 How to reach me : lefrandbima@gmail.com
+Just a curious person about tech
 
 <!---
 lefrandbima/lefrandbima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
